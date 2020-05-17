@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<< " 3.2*791/2.8= "<< 3.2*791/2.8<< " tao ";
+	return 0;
+}
